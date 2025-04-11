@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?t=st=1744361411~exp=1744365011~hmac=5647c22b83272c9ffe2d24ab7306aa3cdeb97de8b02b671a0327d437d14f4906&w=740"  />
+  <img height="300" src="https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?t=st=1744361411~exp=1744365011~hmac=5647c22b83272c9ffe2d24ab7306aa3cdeb97de8b02b671a0327d437d14f4906&w=740"  />
 </div>
 
 ### 
