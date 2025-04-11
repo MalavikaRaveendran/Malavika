@@ -4,7 +4,7 @@
 
 ### 
 
-<h2 align="center">🚀 MALAVIKA RAVEENDRAN | Developer & Tech Enthusiast</h2>
+<h2 align="center">🚀 MALAVIKA RAVEENDRAN | Web Developer</h2>
 
 <p align="center">
   I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.
