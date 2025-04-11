@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1741326877~exp=1741330477~hmac=0d58f8812f41e3264b699ea6419df2126b0cf4d8eeed69cdf0656a22ebea5740&w=1060"  />
+  <img height="200" src="https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?t=st=1744361411~exp=1744365011~hmac=5647c22b83272c9ffe2d24ab7306aa3cdeb97de8b02b671a0327d437d14f4906&w=740"  />
 </div>
 
 ### 
 
-<h2 align="center">🚀 Muhammed Anas M A | Developer & Tech Enthusiast</h2>
+<h2 align="center">🚀 MALAVIKA RAVEENDRAN | Developer & Tech Enthusiast</h2>
 
 <p align="center">
   I am a passionate developer with a deep interest in software development, problem-solving, and innovation. I enjoy writing clean, efficient code and constantly learning new technologies to enhance my skills. My goal is to build impactful solutions that make a difference in the tech world.
